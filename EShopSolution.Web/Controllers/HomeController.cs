@@ -20,7 +20,6 @@ namespace EShopSolution.Web.Controllers
 
         public IActionResult Index()
         {
-            int a = 10;
             return View();
         }
 
